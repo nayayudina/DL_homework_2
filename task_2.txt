@@ -1,0 +1,20 @@
+(\s|<)\<o.\S+@[A-Za-z0-9_-]+(\.[A-Za-z0-9_-]+)*\.[A-Za-z]{2,6}
+18
+To: outlook.team@enron.com
+To: outlook.team@enron.com
+ Outlook.2000@enron.com
+Message-ID: <OF1845F8DC.31DE1EAF-ON86256A1E.00535FA2@enron.com>
+O'Rourke'"" <orourke.john@epenergy.com>, ""'Kawamoto, Wayne'"" 
+in the subject line, or send a blank e-mail to off-yild@zdemail.zdlists.com   
+blank e-mail to on-yild@zdemail.zdlists.com
+Sender: owner-strawbale@crest.org
+From: owner-strawbale@crest.org
+X-From: owner-strawbale@crest.org
+Sender: owner-strawbale@crest.org
+To: outlook.team@enron.com
+ Outlook.2000@enron.com
+Message-ID: <OF1845F8DC.31DE1EAF-ON86256A1E.00535FA2@enron.com>
+O'Rourke'"" <orourke.john@epenergy.com>, ""'Kawamoto, Wayne'"" 
+From: outlook-migration-team@enron.com
+From: outlook-migration-team@enron.com
+you prefer not to receive emails of this nature please send an email to rem= ove@commissioner.com
